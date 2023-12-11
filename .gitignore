@@ -1,5 +1,5 @@
 .idea
-.ipynb_checkpoints
+
 data/sampleSubmission.csv
 data/test.csv
 data/train.csv
