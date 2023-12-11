@@ -1,14 +1,15 @@
-# Projektaufgabe: Vorhersage von Verbrechen in San Francisco
+## Projektaufgabe: Vorhersage von Verbrechen in San Francisco
 
 Ihre Projektaufgabe, die Sie in Gruppen von zwei bis vier Studierenden bearbeiten sollen, ist die Vorhersage von Verbrechen in San Francisco. 
 Die Daten dazu finden Sie auf Kaggle: [SF Crime](https://www.kaggle.com/c/sf-crime).
 
 
->    Die Daten sind zu groß für dieses GitHub Projekt, daher müssen sie eigenständig im data ordner abgelegt werden:
+>    Die Daten sind zu groß für dieses GitHub Projekt, daher müssen sie eigenständig im data Ordner abgelegt werden:
 >
 >    data  
 >    |-- train.csv  
 >    |-- test.csv  
+
 
 Sie sollen die Kategorie eines Verbrechens in San Francisco vorhersagen.   
 
