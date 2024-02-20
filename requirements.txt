@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 geopandas
 geoplot
 matplotlib
@@ -9,3 +10,28 @@ seaborn
 Shapely
 holidays
 meteostat
+=======
+pip unistall geopandas
+pip unistall geoplot
+pip unistall matplotlib
+pip unistall numpy
+pip unistall pandas
+pip unistall scikit_learn
+pip unistall scipy
+pip unistall seaborn
+pip unistall Shapely
+pip unistall holidays
+pip unistall meteostat
+
+pip install geopandas
+pip install geoplot
+pip install matplotlib
+pip install numpy
+pip install pandas
+pip install scikit_learn
+pip install scipy
+pip install seaborn
+pip install Shapely
+pip install holidays
+pip install meteostat
+>>>>>>> Stashed changes
